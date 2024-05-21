@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+ul{
+    font-size: 20px;
+}
+
+.amor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+}
+
+.tittle{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.Text-tittle{
+    font-size: 40px;
+}
+
+.text{
+    padding-top: 10px;
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 19px;
+    text-align: justify;
+}
+
+aside{
+    padding: 20px;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-2{
+    display: flex;
+    align-items: center;
+}
+
+.logo-2 img{
+    height: 30px;
+}
+
+.Amorviviente{
+    color: white;
+    font-size: 12px;
+    display: flex;
+    height: 5px;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    padding: 15px;
+}
+
+.Tittle-CN{
+    color: blue;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-1{
+    margin-top: 20px;
+    width: 326px;
+    height: 496px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+}
+
+.image-2{
+    margin-top: 20px;
+    width: 326px;
+    height: 496px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    margin: 10px;
+}
